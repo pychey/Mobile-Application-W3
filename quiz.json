@@ -1,0 +1,45 @@
+{
+  "id": "UUIDQUIZ",
+  "questions": [
+    {
+      "id": "UUIDQUESTION1",
+      "title": "Capital of France?",
+      "choices": [
+        "Paris",
+        "London",
+        "Rome"
+      ],
+      "goodChoice": "Paris",
+      "points": 10
+    },
+    {
+      "id": "UUIDQUESTION2",
+      "title": "2 + 2 = ?",
+      "choices": [
+        "2",
+        "4",
+        "5"
+      ],
+      "goodChoice": "4",
+      "points": 50
+    }
+  ],
+  "submissions": [
+    {
+      "id": "bc423c27-c274-47af-9b81-5c00b4865109",
+      "playerName": "Pychey",
+      "answers": [
+        {
+          "id": "6170d38b-ac4d-45bd-90a4-e9ee1970e4f4",
+          "questionId": "UUIDQUESTION1",
+          "answerChoice": "Paris"
+        },
+        {
+          "id": "f069c91f-69ff-4cf5-be8f-60c977753e30",
+          "questionId": "UUIDQUESTION2",
+          "answerChoice": "4"
+        }
+      ]
+    }
+  ]
+}
